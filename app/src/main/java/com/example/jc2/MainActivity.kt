@@ -28,7 +28,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-//try to type Somthing secend
+//try to type Somthing secend2
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
